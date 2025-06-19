@@ -21,7 +21,7 @@ This is a small Python project I built to load product data from a CSV file into
 
 2. Replace the path to your CSV if it's different:
    ```python
-   df = pd.read_csv("/Users/apple/Downloads/sample_data.csv")
+   df = pd.read_csv("/Users/windows/Downloads/products.csv")
 Run the script:
 
 Bash
