@@ -1,0 +1,87 @@
+Product_ID,Product_Name,Aisle_ID,Department_ID,Price
+2,All-Seasons Salt,104,13,28.86
+5,Green Chile Anytime Sauce,5,13,42.96
+50,Pumpkin Muffin Mix,105,13,37.16
+65,Organic Red Wine & Olive Oil Dressing Organic,89,13,18.81
+67,"Jelly, Blackberry",88,13,11.65
+80,French  Tarragon Wine Vinegar,19,13,14.41
+96,Sprinklez Confetti Fun Organic Toppings,97,13,36.11
+107,Mild Salsa Divino,51,13,10.41
+112,Hot Tomatillo Salsa,51,13,26.78
+122,Pomegranate Molasses,29,13,12.39
+123,Sherry Reserve Vinegar,19,13,28.83
+144,Coarse Grind Garlic Powder & Parsley Blend,104,13,38.36
+149,Wild Blueberry All Natural Fruit Spread,88,13,10.16
+160,100% Recycled Aluminum Foil,97,13,31.52
+163,Dressing Bleu Cheese,89,13,42.27
+168,Halves & Pieces Walnuts,17,13,36.3
+171,Steakhouse Onion Burger with Garlic Seasoning,5,13,12.94
+235,Gluten Free Blueberry Muffin Mix,105,13,24.06
+240,Nature's Seasons Seasoning Blend,104,13,25.32
+243,Taco Reduced Sodium Seasoning Mix,5,13,40.15
+254,Honey Mustard,72,13,22.42
+262,Petite Dill Pickles,110,13,15.3
+263,Red Food Color,97,13,32.92
+286,Lite Poppy Seed Dressing Lite,89,13,44.51
+300,Organic Enriched Unbleached White Flour,17,13,41.15
+305,Wild Forest Raw Neem Honey,29,13,17.87
+315,Creamy Italian Dressing Marinade,89,13,17.45
+323,Natural Food Color Packets,17,13,34.14
+349,Organic Granulated Tapioca,17,13,15.95
+357,White Writing Gel,97,13,25.22
+362,Pound Cake Cake Mix,105,13,24.93
+392,OPA Greek Yogurt Ranch Dressing,89,13,41.64
+395,Sweet Cream Buttermilk Powder,17,13,20.35
+397,Pure Granulated Cane Sugar,17,13,41.6
+404,Reg; Organic Apple Cider Vinegar 16 Fl Oz,19,13,16.09
+423,Red Jalapeno Caesar Dressing,89,13,41.59
+427,Italian Style Panko Breadcrumbs,5,13,14.6
+451,"Almond Spread, Dark Chocolate",88,13,30.79
+454,Sloppy Joe Sauce,51,13,27.19
+463,Salt Free Seasoning,104,13,11.18
+478,Organic Pitted Kalamata Olives,110,13,44.16
+481,Black Peppercorns,104,13,21.59
+495,Pure Cane Granulated W/Spout Sugar,17,13,31.16
+507,Tikka Masala Curry Sauce,72,13,13.52
+513,Honey Maid Graham Cracker Crumbs,17,13,22.37
+520,Sweet & Smokey Kansas City Bbq Sauce,72,13,16.25
+526,Alcohol Free Maple Flavor,104,13,35.79
+537,Kosher Dill Babies,110,13,43.06
+539,Tri Color Tortilla Strips,89,13,41.31
+546,Tomatillo Salsa,51,13,35.76
+553,BBQ Concentrate & Marinade Sauce,5,13,15.69
+558,Organic Raw Almond Butter,88,13,40.75
+575,Organic Medium Yellow Thai Curry,72,13,41.22
+589,Salsa Roja,51,13,34.6
+600,Thick & Zesty Spaghetti Sauce Mix,104,13,29.17
+607,Goober Strawberry,88,13,18.62
+609,Clarified Lime Juice,17,13,22.12
+636,Red Raspberry Jam,88,13,28.01
+652,Garden Strawberry Fruit Spread,88,13,17.72
+710,Garlic Barrel Pickles,110,13,10.83
+711,Vegetarian Brown  Gravy Mix,5,13,32.08
+725,Ceylon Cinnamon,104,13,35.48
+742,Organic Raw Coconut Aminos,72,13,19.46
+747,Xylitol Sweetener,17,13,19.3
+753,Milk Chocolate Toffee Bits,17,13,21.78
+800,Organic Classic Caraway Kraut,110,13,34.79
+807,For Chicken Marinade,5,13,38.34
+810,Organic Honey Mustard,72,13,14.95
+811,Chocolate Decorating Cookie Icing,97,13,37.16
+820,Vanilla Almond Butter Squeeze,88,13,26.6
+826,Original No-Stick Cooking Spray,19,13,33.02
+838,"Goat Cheese, Spreadable, Breakfast, Fig",51,13,41.23
+847,Gluten Free Sugar Cookie Mix,105,13,42.29
+860,Chicago Steak & Chop Cracked Pepper & Garlic Blend,104,13,29.44
+884,Dried Parsley Flakes,104,13,14.6
+887,Creamy Supreme Buttercream Frosting,97,13,15.97
+898,Saucy Ginger Mandarin Dressing,89,13,26.67
+908,Onion & Herb Salt-Free Seasoning Blend,104,13,25.13
+922,Chipotle & Roasted Garlic Seasoning,104,13,21.21
+923,Country Fresh Old Fashioned Horseradish,88,13,36.3
+950,Toll House Ultimate Chocolate Peanut Butter Deluxe Cookie Dough,105,13,15.58
+952,"Flaxseed Meal, Whole Ground",17,13,28.73
+962,Organic Roasted Garlic Vinaigrette Dressing Organic,89,13,17.48
+977,Deli Spicy Brown Mustard,72,13,17.49
+998,Hot Chopped Green Chili,104,13,22.06
+999,Original Organic Ville BBQ Sauce,5,13,17.49

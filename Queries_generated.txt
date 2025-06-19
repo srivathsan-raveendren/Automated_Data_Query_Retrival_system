@@ -1,0 +1,14 @@
+Generated Queries:
+
+test_case1:
+Prompt: Find all products in Department_ID 13
+Query: {'Department_ID': 13}
+
+test_case2:
+Prompt: Find products with Price > 20
+Query: {'$query': {'Price': {'$gt': 20}}, '$fields': ['Product_ID', 'Product_Name', 'Aisle_ID', 'Department_ID', 'Price']}
+
+test_case3:
+Prompt: Find products where Product_Name contains 'Chocolate'
+Query: {'Product_Name': {'$regex': 'Chocolate', '$options': 'i'}}
+
